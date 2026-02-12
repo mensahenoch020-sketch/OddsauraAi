@@ -1,9 +1,1 @@
-PORT=3000
-NODE_ENV=development
-DB_HOST=localhost
-DB_PORT=5432
-DB_USER=root
-DB_PASSWORD=password
-DB_NAME=test_db
-STRIPE_SECRET_KEY=sk_test_37bfadcd3edabd6c90400c1205cf1b01254c61c6
-JWT_SECRET=dev_secret_key
+
