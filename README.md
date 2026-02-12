@@ -1,0 +1,2 @@
+# OddsauraAi
+Ai prediction app
